@@ -1,2 +1,0 @@
-# Trabajo_Practicophp
-EntregaDeTP
