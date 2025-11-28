@@ -1,0 +1,39 @@
+body {
+  background: #f8f9fa;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2 {
+  color: #003366;
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+  border-radius: 15px 15px 0 0;
+}
+
+footer {
+  background: #00264d;
+  color: white;
+}
+
+.btn-primary {
+  background-color: #0056b3;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #003d80;
+}
